@@ -1,0 +1,720 @@
+    1  ls
+    2  sudo sh cuda_11.4.0_470.42.01_linux.run
+    3  cat /etc/*release*
+    4  cd
+    5  ls
+    6  ln -s /mnt/c/Users/12052/ ~/win-home
+    7  cd win-home
+    8  ls
+    9  cd Downloads/
+   10  ls
+   11  bash Anaconda3-2022.10-Linux-x86_64.sh 
+   12  cd
+   13  ls
+   14  conda create --name py37 python=3.7
+   15  conda config --set auto_activate_base false
+   16  nvidia-smi
+   17  ls
+   18  ls /usr/local/cuda
+   19  ls
+   20  conda activate torch2
+   21  python
+   22  exit
+   23  torch.version.cuda
+   24  python 
+   25  conda activate torch2
+   26  python
+   27  nvcc -V
+   28  nvcc -V
+   29  conda activate
+   30  cd
+   31  conda activate torch2
+   32  lsl
+   33  ls
+   34  cd
+   35  ls
+   36  mkdir Projects
+   37  cd Projects/
+   38  mkdir torch_audio_practice
+   39  cd torch_audio_practice/
+   40  ls
+   41  touch index.ipynb
+   42  code index.ipynb 
+   43  cd
+   44  ls
+   45  cd Projects/
+   46  ls
+   47  cd torch_audio_practice/
+   48  ls
+   49  code index.ipynb 
+   50  ls
+   51  cd ../
+   52  cd ~/win-home/Downloads/
+   53  ls
+   54  tar -xvzf pycharm-community-2
+   55  ls
+   56  sudo snap install pycharm-community --classic
+   57  ls
+   58  mkdir pycharm
+   59  mv pycharm-community-2022.3 pycharm
+   60  cd pycharm/
+   61  ls
+   62  sudo rm -r pycharm-community-2022.3/
+   63  ls
+   64  mv ../pycharm-community-2022.3.tar.gz .
+   65  tar -xzf pycharm-community-2022.3.tar.gz 
+   66  ls
+   67  cd pycharm-community-2022.3/
+   68  ls
+   69  code Install-Linux-tar.txt 
+   70  cd bin/
+   71  ls
+   72  bash pycharm.sh
+   73  ls
+   74  python
+   75  ls
+   76  python3
+   77  conda list
+   78  conda activate torch2
+   79  python
+   80  exit
+   81  ls
+   82  pip
+   83  conda
+   84  conda env list
+   85  conda activate
+   86  conda list
+   87  conda activTE torch
+   88  conda activate torch
+   89  conda list
+   90  conda activate torch2
+   91  conda lisit
+   92  conda list
+   93  conda env list
+   94  conda activate torch2
+   95  conda list
+   96  conda activate torch
+   97  conda list
+   98  conda env list
+   99  conda activate base
+  100  conda lisir
+  101  conda list
+  102  conda activate torch2
+  103  conda env list
+  104  conda list
+  105  conda deactivate
+  106  ls
+  107  which python
+  108  which python3
+  109  pip
+  110  la
+  111  ls
+  112  nvidia-smi
+  113  nvcc -v
+  114  nvcc -V
+  115  ls
+  116  mkdir practice
+  117  mv index.py practice/
+  118  ls
+  119  mv index.ipynb  practice/
+  120  ls
+  121  sudo rm feedforwardnet.pth 
+  122  ls
+  123  git 
+  124  git clone https://github.com/musikalkemist/pytorchforaudio.git
+  125  ls
+  126  cd pytorchforaudio/
+  127  ls
+  128  cd 02\ Training\ a\ feed\ forward\ network/
+  129  ls
+  130  cd ../
+  131  ls
+  132  cd 03\ Making\ predictions/
+  133  ls
+  134  cd ../
+  135  ls
+  136  cd ../
+  137  ls
+  138  cd ../
+  139  s
+  140  ls
+  141  mkdir z_to_m_pytorch_course
+  142  cd z_to_m_pytorch_course/
+  143  ls
+  144  git clone https://github.com/mrdbourke/tensorflow-deep-learning.git
+  145  ls
+  146  cd tensorflow-deep-learning/
+  147  ls
+  148  ks
+  149  ls
+  150  conda list
+  151  nvida-smi
+  152  nvidia-smi
+  153  nvcc -v
+  154  nvcc -V
+  155  conda create --name interpretable-cnn python=3.6.6
+  156  conda activate interpretable-cnn
+  157  ls
+  158  git clone https://github.com/htil/crown-raw-eeg-nodejs.git
+  159  ls
+  160  mkdir interpretable-cnn
+  161  ls
+  162  cd interpretable-cnn/
+  163  ls
+  164  touch analyze.ipynb
+  165  ls
+  166  conda install mne=0.18
+  167  pip install -Iv mne==0.19.2
+  168  ls
+  169  code analyze.ipynb 
+  170  ls ~/anaconda3/
+  171  ls
+  172  cd ~/anaconda3/envs/
+  173  ls
+  174  pwd
+  175  ls
+  176  cd interpretable-cnn/
+  177  ls
+  178  cd ../
+  179  ls
+  180  cd py37/;s
+  181  ls
+  182  ls -al
+  183  ls -a
+  184  cd ../
+  185  ls
+  186  ls -a
+  187  cd ~/anaconda3/envs/
+  188  ls
+  189  cd interpretable-cnn/
+  190  ls -a
+  191  ls ~/anaconda3/
+  192  ls -a ~/anaconda3/
+  193  conda create -n env-01 python=3.9 scipy=0.15.0 astroid babel
+  194  ls
+  195  cd
+  196  ls
+  197  conda create --name icnn python=3.6
+  198  conda activate icnn
+  199  ls
+  200  cd Projects/
+  201  ls
+  202  cd eeg_analysis/
+  203  ls
+  204  cd interpretable-cnn/
+  205  ls
+  206  code analyze.ipynb 
+  207  ls
+  208  conda activate icnn
+  209  code analyze.ipynb 
+  210  conda activate icnn
+  211  ls
+  212  jupyter analyze.ipynb 
+  213  activate
+  214  conda activate \\wsl$\Ubuntu-20.04\home\csc\Projects\eeg_analysis\interpretable-cnn\.conda
+  215  conda activate icnn-4
+  216  conda env list
+  217  cd Projects/
+  218  l
+  219  ls
+  220  mkdir eeg_analysis
+  221  ls
+  222  cd eeg_analysis/
+  223  ls
+  224  code .
+  225  ls
+  226  cd interpretable-cnn/
+  227  s
+  228  ls
+  229  conda activate interpretable-cnn
+  230  code analyze.ipynb 
+  231  pwd
+  232  ls
+  233  conda deactivate
+  234  ls
+  235  conda activate icnn
+  236  conda analyze.ipynb 
+  237  code analyze.ipynb 
+  238  code ,
+  239  code .
+  240  ls
+  241  ls -a
+  242  cd .conda/
+  243  ls
+  244  cd ../
+  245  ls
+  246  cd ~/anaconda3/envs/
+  247  ls
+  248  cd icnn/
+  249  ls
+  250  ls -a
+  251  conda deactivate
+  252  ls
+  253  cd
+  254  ls
+  255  conda create --name 2icnn python=3.6
+  256  ls
+  257  cd ~/anaconda3/envs/2icnn/
+  258  ls
+  259  conda activate 2icnn
+  260  ls
+  261  conda install python=3.6
+  262  ls -a
+  263  conda install pip
+  264  conda deactivate
+  265  ls
+  266  cd
+  267  ls
+  268  conda create -n 3icnn python=3.6 -c conda-forge
+  269  ls ~/anaconda3/envs/3icnn/
+  270  ls
+  271  cd Projects/
+  272  ls
+  273  cd eeg_analysis/
+  274  ls
+  275  cd interpretable-cnn/
+  276  ls
+  277  conda .
+  278  code .
+  279  ls
+  280  conda create -n test 
+  281  conda create -n test python
+  282  conda activate test
+  283  ls
+  284  code analyze.ipynb 
+  285  ls
+  286  cd ~/anaconda3/envs/
+  287  ls
+  288  cd test/
+  289  ls
+  290  ls include/
+  291  ls
+  292  ls bin/
+  293  cd bin/
+  294  ls
+  295  python3.10
+  296  pwd
+  297  code
+  298  code .
+  299  conda deactivate
+  300  ls
+  301  cd 
+  302  ls
+  303  cd Projects/
+  304  ls
+  305  cd eeg_analysis/
+  306  ls
+  307  code.
+  308  code .
+  309  conda activate icnn
+  310  l
+  311  ls
+  312  code test.ipynb 
+  313  ls
+  314  cd out_data/
+  315  ls
+  316  ls -l all_asd_td_concat_cleaned_1_40hz_epo.fif 
+  317  du -h all_asd_td_concat_cleaned_1_40hz_epo.fif 
+  318  du -h asd_concat_cleaned_1_40hz_epo.fif 
+  319  du -h td_concat_cleaned_1_40hz_epo.fif 
+  320  ls
+  321  cd ../
+  322  ls
+  323  touch ml.ipynb
+  324  git status
+  325  git add .
+  326  git commit -m "Add machine learning testing. SVM, LDA"
+  327  git push origin main
+  328  ls
+  329  cd out_data/
+  330  ls
+  331  du -h test_all_cleaned_1_40hz_epo.fif 
+  332  ls
+  333  cd ../models/
+  334  du -h lr.model 
+  335  l
+  336  s
+  337  conda activate eeg_analysis2
+  338  ls
+  339  pwd
+  340  cd win-home
+  341  ls
+  342  pwd
+  343  cd _Game_Test3/
+  344  ls
+  345  touch .gitignore
+  346  code .gitignore 
+  347  ls
+  348  cd Projects/
+  349  ls
+  350  cd Gen_Sound/
+  351  ls
+  352  npm init
+  353  sudo apt install npm 
+  354  sudo apt update
+  355  sudo apt install npm 
+  356  ls
+  357  npm init
+  358  ls
+  359  npm install sox-audio
+  360  ls
+  361  touch index.js
+  362  ls
+  363  code .
+  364  explorer.exe .
+  365  nano /etc/wsl.conf 
+  366  sudo nano /etc/wsl.conf 
+  367  ls
+  368  cd Projects/
+  369  ls
+  370  cd Gen_Sound/
+  371  ls
+  372  npm 
+  373  ls
+  374  code .
+  375  ls
+  376  explorer.exe .
+  377  ls
+  378  cat /etc/wsl.conf 
+  379  sudo rm /etc/wsl.conf 
+  380  ls
+  381  [
+  382  ls
+  383  code .
+  384  ls
+  385  node index.js 
+  386  ls
+  387  yarn install
+  388  ls
+  389  yarn dev
+  390  var TimeFormat = SoxCommand.TimeFormat;
+  391  sudo apt install sox
+  392  ls
+  393  sox
+  394  ls
+  395  yarn dev
+  396  ls
+  397  yarn remove sox-audio
+  398  yarn install
+  399  yarn add
+  400  ls
+  401  yarn add crunker
+  402  ls
+  403  yarn add crunker
+  404  ls
+  405  yarn dev
+  406  ls
+  407  yarn remove crunker
+  408  cat package
+  409  cat package.json 
+  410  ls
+  411  yarn add --dev parcel
+  412  nvm
+  413  ls
+  414  ls
+  415  cd Projects/
+  416  ls
+  417  cd Gen_Sound/A
+  418  ls
+  419  echo $PATH
+  420  explorer.exe .
+  421  ;
+  422  npm 
+  423  ls
+  424  https://github.com/microsoft/WSL/issues/4804#issuecomment-572228658 ls
+  425  ls
+  426  npm install
+  427  ls
+  428  code .
+  429  explorer.exe .
+  430  ls
+  431  code .
+  432  ls
+  433  cd Projects/
+  434  ls
+  435  cd Gen_Sound/
+  436  ls
+  437  code .
+  438  s
+  439  ls
+  440  history
+  441  ls
+  442  cd build/
+  443  ls
+  444  touch .htaccess 
+  445  touch web.config
+  446  ls
+  447  code .htaccess 
+  448  ls
+  449  cd ../
+  450  ls
+  451  echo "# bullrununity" >> README.md
+  452  ls
+  453  github
+  454  ls
+  455  git init
+  456  sl
+  457  ls
+  458  touch .gitignore
+  459  ls
+  460  git commit -m "briging changes over from https://github.com/W3bbieLabs/bullrun"
+  461  git branch -M main
+  462  ipfconfig
+  463  ipconfig
+  464  ls
+  465  cd
+  466  ls
+  467  cd win-home
+  468  LS
+  469  ls
+  470  cd Desktop/\
+  471  ls
+  472  cd Desktop/
+  473  ls
+  474  mkdir trending_audio 
+  475  cd trending_audio/
+  476  ls
+  477  touch mp4_mp3.sh
+  478  code mp4_mp3.sh 
+  479  ls
+  480  sudo chmod +x mp4_mp3.sh 
+  481  ls
+  482  ./mp4_mp3.sh 1.mp4 1.mp3
+  483  ffmpeg
+  484  sudo apt install ffmpeg
+  485  sudo update
+  486  sudo apt update
+  487  sudo apt install ffmpeg
+  488  ffmpeg
+  489  sudo apt install ffmpeg
+  490  ls
+  491  ./mp4_mp3.sh 1.mp4 1.mp3
+  492  pwd
+  493  ls
+  494  cd ~
+  495  ls
+  496  pwd
+  497  cd Projects/
+  498  ls
+  499  cd automation_projects/
+  500  ls
+  501  cd shimmi_shorts/
+  502  ls
+  503  npm init 
+  504  ls
+  505  cd touch index.js
+  506  code .
+  507  npm i discord.js
+  508  npm install dotenv
+  509  sudo npm i -g nodemon
+  510  nodemon
+  511  ls
+  512  cd ../
+  513  s
+  514  ls
+  515  mkdir example_discord_bots
+  516  ls
+  517  cd example_discord_bots/
+  518  git clone https://github.com/notunderctrl/discordjs-v14-series.git
+  519  ls
+  520  explorer.exe
+  521  explorer.exe .
+  522  ls
+  523  sudo rm -r discordjs-v14-series/
+  524  ls
+  525  git clone https://github.com/notunderctrl/discordjs-v14-series.git
+  526  ls
+  527  nodemon
+  528  ls
+  529  cd ../
+  530  ls
+  531  cd tiktoktest/
+  532  lsz
+  533  ls
+  534  nodemon
+  535  ls
+  536  cd Projects/
+  537  ls
+  538  mkdir discord_bots
+  539  cd discord_bots/
+  540  ls
+  541  mkdir tiktoktest
+  542  cd tiktoktest/
+  543  ls
+  544  npm init -y
+  545  ls
+  546  code .
+  547  cd  ../
+  548  ls
+  549  pip
+  550  ls
+  551  cd tiktok-python/
+  552  ls
+  553  sudo apt install python3-pip
+  554  pip
+  555  python
+  556  ls
+  557  sudo apt update && upgrade
+  558  sudo apt install python3 python3-pip 
+  559  ls
+  560  python
+  561  python3
+  562  pip
+  563  exit
+  564  cd pro
+  565  cd Projects/
+  566  ls
+  567  cd discord_bots/
+  568  ls
+  569  cd tiktoktest/
+  570  ls
+  571  cd ../
+  572  ls
+  573  cd aws-cli-python-tiktok/
+  574  ls
+  575  code .
+  576  history
+  577  ls
+  578  cd Projects/
+  579  ls
+  580  cd eeg_analysis/
+  581  ls
+  582  cd interpretable-cnn/
+  583  ls
+  584  cd ../
+  585  ls
+  586  cd eeg_analysis2/
+  587  ls
+  588  cd ../
+  589  ls
+  590  cd interpretable-cnn/
+  591  ls
+  592  cd../
+  593  cd ../
+  594  ls
+  595  cd eeg_analysis2/
+  596  ls
+  597  explorer.exe .
+  598  code .
+  599  import mne
+  600  import torch
+  601  import os
+  602  from pathlib import Path 
+  603  import logging
+  604  import random
+  605  import pandas as pd
+  606  import numpy as np
+  607  import matplotlib
+  608  import matplotlib.pyplot as plt
+  609  from mne.preprocessing import annotate_muscle_zscore
+  610  from mne.io import concatenate_raws, read_raw_edf
+  611  from mne.time_frequency import tfr_morlet
+  612  import math
+  613  from mne.preprocessing import (create_eog_epochs, create_ecg_epochs,
+  614  matplotlib.use('Qt5Agg')
+  615  mne.set_log_level('warning')
+  616  jupyter
+  617  anaconda
+  618  ls
+  619  conda
+  620  cd ..
+  621  ls
+  622  cd ../
+  623  ls
+  624  cd ../
+  625  ls
+  626  cd hist/
+  627  cat 7_13_23.txt 
+  628  ls
+  629  cd ../
+  630  ls
+  631  cd Projects/
+  632  ls
+  633  cd eeg_analysis/
+  634  ls
+  635  cd eeg_analysis2/
+  636  ls
+  637  code load_preprocess.ipynb 
+  638  cd ../
+  639  ls
+  640  cd../
+  641  cd ../
+  642  ls
+  643  cd ../
+  644  ls
+  645  cd hist/
+  646  ls
+  647  cat 7_13_23.txt 
+  648  ls
+  649  cd
+  650  ls
+  651  cd Projects/
+  652  ls
+  653  cd eeg_analysis/
+  654  ls
+  655  cd eeg_analysis2/
+  656  ls
+  657  conda activate icnn
+  658  code .
+  659  exit
+  660  conda activate icnn
+  661  q
+  662  quit
+  663  conda deactivate icnn
+  664  conda help
+  665  help
+  666  conda --help
+  667  exit
+  668  conda activate icnn
+  669  conda exit
+  670  conda deactivate
+  671  ls
+  672  conda activate eeg_analysis2
+  673  conda info --envs
+  674  conda install -n 3icnn ipykernel --update-deps --force-reinstall
+  675  conda install -n icnn ipykernel --update-deps --force-reinstall
+  676  ls
+  677  conda activate interpretable-cnn
+  678  conda deactivate
+  679  touch activate-conda.sh
+  680  chmod +x activate-conda.sh 
+  681  ls
+  682  ./activate-conda.sh 
+  683  conda activate interpretable-cnn
+  684  ls
+  685  conda list
+  686  pip install mne
+  687  pip install mne -U
+  688  ls
+  689  pip install python-picard
+  690  conda list
+  691  conda install python-picard
+  692  conda list
+  693  ls
+  694  cd Projects/
+  695  ls
+  696  cd eeg_analysis/
+  697  ls
+  698  conda activate interpretable-cnn
+  699  code .
+  700  ls
+  701  conda activate interpretable-cnn
+  702  conda list
+  703  pip install python-picard
+  704  conda deactivate
+  705  pip install python-picard
+  706  conda activate interpretable-cnn
+  707  conda list
+  708  python
+  709  conda activate interpretable-cnn
+  710  conda install -c conda-forge mne
+  711  conda install -c conda-forge mne\
+  712  conda install -c conda-forge mne
+  713  conda list
+  714  conda install -c conda-forge mne
+  715  ls
+  716  conda install -c conda-forge mne
+  717  conda install mne=0.18
+  718  conda install mne
+  719  ls
+  720  history > history-upgrading-venv.txt
